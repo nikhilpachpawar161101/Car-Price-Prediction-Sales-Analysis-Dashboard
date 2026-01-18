@@ -1,9 +1,9 @@
 # 🚗 Car Price Prediction & Sales Analysis Dashboard
 
 ## 📌 Project Overview
-This project presents an **interactive Power BI dashboard** that analyzes historical car sales data and predicts average car prices based on **brand, fuel type, car condition, and year**.
+This project is a **Power BI dashboard** designed to analyze historical car sales data and predict average car prices based on multiple factors such as **brand, fuel type, car condition, and year.**
 
-The dashboard helps users identify **pricing trends, sales performance, and customer preferences**, enabling data-driven insights in the automotive domain.
+The dashboard helps users understand **sales trends, pricing patterns, and customer preferences,** enabling data-driven decision-making in the automotive domain.ts in the automotive domain.
 
 ---
 
@@ -39,34 +39,6 @@ The dashboard provides **estimated average car prices** using historical data pa
 
 ---
 
-## 🎨 Color Theme Used
-
-### Background & UI
-| Element | HEX Code |
-|------|----------|
-| Main Background | `#0B0614` |
-| Visual Containers | `#1A0F2E` |
-| Borders / Glow | `#6E44FF` |
-| Title Text | `#FFFFFF` |
-| Labels & Axis | `#CFCFD6` |
-
-### Fuel Type Colors
-| Fuel Type | Color | HEX |
-|---------|-------|-----|
-| Diesel | Blue | `#3B82F6` |
-| Petrol | Orange | `#F97316` |
-| Electric | Green | `#22C55E` |
-| Hybrid | Purple | `#A855F7` |
-
-### KPI Colors
-| KPI | HEX |
-|----|-----|
-| Total Sales | `#14B8A6` |
-| Total Cars | `#FACC15` |
-| Average Price | `#06B6D4` |
-
----
-
 ## 🛠 Tools & Technologies
 - **Power BI**
 - **DAX**
@@ -85,6 +57,7 @@ The dashboard provides **estimated average car prices** using historical data pa
 
 ---
 
-## 📷 Dashboard Preview
-> *(Add screenshots of the Power BI dashboard here)*
+## 📌 Conclusion
+
+This project demonstrates strong skills in **data analysis, visualization, and business intelligence,** making it suitable for **Data Analyst / BI Analyst roles.**
 
